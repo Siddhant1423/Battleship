@@ -1,0 +1,26 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Siddhant1423/Battleship#readme",
+  "bugs": {
+    "url": "https://github.com/Siddhant1423/Battleship/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddhant1423/Battleship.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "babel-jest": "^30.0.4",
+    "jest": "^30.0.4"
+  }
+}
